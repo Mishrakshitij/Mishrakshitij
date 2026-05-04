@@ -1,4 +1,4 @@
-# Hi, I'm Kshitij Mishra 👋
+# Hi, I'm Kshitij 👋
 
 I am a Postdoctoral Associate at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), working on **Strategic AI**, **Reasoning Language Models**, **AI Safety**, **Persuasive AI**, and **Auditing of LLM Agents**.
 
