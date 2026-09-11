@@ -6,7 +6,7 @@ I study how language-model agents learn from feedback, reason with evidence, and
 
 My Ph.D. research at IIT Patna focused on conversational AI: reinforcement learning for dialogue planning, persuasion, politeness, empathy, and multilingual interaction. That work now informs my research on reasoning, post-training, and reliable agents.
 
-[Google Scholar](https://scholar.google.com/citations?user=jfTVBUQAAAAJ) · [Publications](https://aclanthology.org/people/kshitij-mishra/) · [LinkedIn](https://www.linkedin.com/in/kshitij-mishra-6770451b1) · [Email](mailto:kshitij.mishra@mbzuai.ac.ae)
+[Website](https://mishrakshitij.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=jfTVBUQAAAAJ) · [Publications](https://aclanthology.org/people/kshitij-mishra/) · [LinkedIn](https://www.linkedin.com/in/kshitij-mishra-6770451b1) · [Email](mailto:kshitij.mishra@mbzuai.ac.ae)
 
 ## Research
 
