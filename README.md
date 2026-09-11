@@ -1,68 +1,44 @@
-# Hi, I'm Kshitij 👋
+# Hi, I'm Kshitij Mishra
 
-I am a Postdoctoral Associate at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), working on **Strategic AI**, **Reasoning Language Models**, **AI Safety**, **Persuasive AI**, and **Auditing of LLM Agents**.
+**Postdoctoral Associate at [MBZUAI](https://mbzuai.ac.ae/) · Adaptive and trustworthy foundation-model agents**
 
-I completed my Ph.D. from the Indian Institute of Technology Patna, where my research focused on conversational AI, dialogue systems, reinforcement learning, empathy, politeness, counseling agents, and Indian-language chatbots.
+I study how language-model agents learn from feedback, reason with evidence, and collaborate over long interactions—and how to make their decisions consistent, robust, and auditable.
 
-## 🔬 Research Interests
+My Ph.D. research at IIT Patna focused on conversational AI: reinforcement learning for dialogue planning, persuasion, politeness, empathy, and multilingual interaction. That work now informs my research on reasoning, post-training, and reliable agents.
 
-My current research focuses on:
+[Google Scholar](https://scholar.google.com/citations?user=jfTVBUQAAAAJ) · [Publications](https://aclanthology.org/people/kshitij-mishra/) · [LinkedIn](https://www.linkedin.com/in/kshitij-mishra-6770451b1) · [Email](mailto:kshitij.mishra@mbzuai.ac.ae)
 
-- Reasoning and post-training of language models
-- Strategic AI and persuasive language generation
-- Prompt-injection defense and adversarial robustness
-- Safety alignment and multi-turn jailbreak analysis
-- Auditing tool-augmented LLM agents
-- Textual feedback preference optimization
-- Concept-level and process-level reasoning optimization
-- Conversational AI systems and real-world LLM deployment
+## Research
 
-## 🚀 Recent Research Direction
+My research agenda is organized around **CAST: Consistent, Adaptive, Strategic, and Trustworthy agents**.
 
-I am currently exploring how language models can reason, persuade, defend, and audit in strategic multi-agent environments.
+| Theme | Questions I work on |
+| :--- | :--- |
+| **Consistency** | How can agents reason from conflicting evidence, attribute their decisions, and carry knowledge into reliable actions? |
+| **Adaptation** | How can feedback, cross teaching, and experience produce learning that transfers to new problems? |
+| **Strategy** | How can agents plan, collaborate, and reason through persuasion and debate over long interactions? |
+| **Trustworthiness** | How can we audit tool-using agents, resist adversarial inputs, and preserve safety and human control? |
 
-Some of my recent works include:
+I am also exploring how these questions extend to vision–language agents, persistent memory, and interactive environments.
 
-- **CoRe: Collaborative Reasoning via Cross Teaching** — accepted at **ICML 2026**
-- **SD-E$^2$: Semantic Exploration for Reasoning Under Token Budgets** — accepted at **Findings of EACL 2026**
-- Research on prompt-injection defense, framing-aware robustness, policy-violation auditing, textual feedback optimization, and ethical persuasion benchmarks
+## Selected publications
 
-## 🧠 Broader Research Theme
+- **[CoRe: Collaborative Reasoning via Cross Teaching](https://arxiv.org/abs/2601.21600)** — ICML 2026
+- **[SD-E²: Semantic Exploration for Reasoning Under Token Budgets](https://aclanthology.org/2026.findings-eacl.323/)** — Findings of EACL 2026
+- **[Breaking Barriers: A Paradigm Shift in Technology Accessibility for Individuals with Physical Disabilities](https://doi.org/10.1609/aaai.v39i23.34670)** — AAAI 2025
+- **[ABLE: Personalized Disability Support with Politeness and Empathy Integration](https://aclanthology.org/2024.emnlp-main.1252/)** — EMNLP 2024
+- **[Correcting Language Model Outputs by Editing Salient Layers](https://aclanthology.org/2024.findings-eacl.86/)** — Findings of EACL 2024
+- **[PAL to Lend a Helping Hand](https://aclanthology.org/2023.acl-long.685/)** — ACL 2023
 
-My long-term research goal is to build reliable, safe, and strategically capable AI agents that can operate in complex real-world environments involving reasoning, persuasion, tool use, and adversarial interaction.
+## Open research and systems
 
-## 💼 Experience
+- [PEPDS](https://github.com/Mishrakshitij/PEPDS): polite and empathetic persuasive dialogue.
+- [PAL](https://github.com/Mishrakshitij/PAL): emotion-adaptive counseling dialogue.
+- [ABLE](https://github.com/Mishrakshitij/ABLE) and [EDiSS](https://github.com/Mishrakshitij/EDiSS): personalized and accessible conversational support.
+- Deployment experience includes the **Etihad Conversational Booking Agent** and **Sevak**, a multilingual Indian-language chatbot initiative.
 
-- **Postdoctoral Associate**, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi  
-  **August 2025 – Present**  
-  Research on strategic AI, reasoning language models, safety alignment, persuasion, and auditing of LLM agents.
+## Background
 
-- **Intern**, Quantiphi, Bangalore, India  
-  **February 2025 – June 2025**  
-  Worked on improving the reasoning capabilities of small language models using process-level rewards.
+Previously, I worked on language-model editing and privacy at **Amazon** and small-language-model reasoning at **Quantiphi**. I hold a **Ph.D. from IIT Patna** and an **M.Tech. from NIT Arunachal Pradesh**, where I received the gold medal. I was awarded the **Prime Minister's Research Fellowship** in 2019.
 
-- **Ph.D. Scholar**, Indian Institute of Technology Patna, India  
-  **July 2019 – August 2025**  
-  Research on conversational AI, dialogue systems, RLHF/PPO-based dialogue planning, empathy, politeness, counseling agents, and multilingual Indian-language chatbots.
-
-- **Applied Scientist Intern (L5)**, Amazon.com Services LLC, Los Angeles, USA  
-  **January 2023 – October 2023**  
-  Worked on LLM editing and privacy-preserving large language models.
-
-## 🛠️ Systems and Deployment
-
-I have worked on both research and deployment-oriented AI systems, including:
-
-- Etihad Conversational Booking Agent
-- Sevak Indian-language chatbot system
-- Conversational agents for healthcare, judiciary, railways, counseling, persuasion, and disability support
-
-## 📫 Contact
-
-- Google Scholar: `https://scholar.google.com/citations?user=jfTVBUQAAAAJ`
-- Email: `kshitij.mishra@mbzuai.ac.ae`, `mishra.kshitij07@gmail.com`
-- LinkedIn: `https://www.linkedin.com/in/kshitij-mishra-6770451b1`
-
----
-
-I am always open to research discussions and collaborations in reasoning LMs, strategic AI, AI safety, persuasive agents, and conversational AI.
+I welcome research conversations and collaborations in reasoning, agent learning, strategic interaction, and trustworthy AI.
